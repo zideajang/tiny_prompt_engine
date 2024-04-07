@@ -1,0 +1,37 @@
+{
+    "promptComponents":[
+        {
+            "name":"Role",
+            "type":"input",
+            "disable":false
+        },
+        {
+            "name":"Examples",
+            "type":"textarea",
+            "disable":false
+        },
+        {
+            "name":"Context",
+            "type":"textarea",
+            "disable":false
+        },
+        {
+            "name":"Format",
+            "dataType":"string",
+            "type":"input",
+            "disable":false
+        },
+        {
+            "name":"Constraints",
+            "dataType":"array",
+            "type":"input",
+            "disable":false
+        },
+        {
+            "name":"Attentions",
+            "dataType":"array",
+            "type":"input",
+            "disable":false
+        }
+    ]
+}
